@@ -3,6 +3,11 @@
 Dit project bevat de basis van een Selenium 3 project.
 Volgende features zijn geïmplementeerd:
 
+
+
+    ATOMTEST
+
+
 - Edgedriver
 - Chromedriver
 - Geckodriver
@@ -44,7 +49,7 @@ Er kunnen enkele variabelen meegegeven worden om het automatisch downloaden van 
 - *useLatestIEDriver*
 - *useLatestEdgeDriver*
 - *useLatest*
- 
+
 *useLatestxxx* zal de meest recente versie van driver xxx downloaden. *useLatest* zal de meest recente versie van alle drivers downloaden.
 
 
@@ -52,5 +57,3 @@ Er kunnen enkele variabelen meegegeven worden om het automatisch downloaden van 
 - Screen recording parameterizeren
 - Command-line switch inbouwen om browser te kiezen
 - Headers toevoegen om authenticatie te bypassen (via proxy)
-
-
